@@ -5,3 +5,9 @@ h1 {
 p {
     color: blue
 }
+
+img{
+    width: 300px;
+    height: auto;
+
+}
