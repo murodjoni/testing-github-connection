@@ -5,6 +5,9 @@ h1 {
 p {
     color: blue
 }
+em {
+    color: orange;
+}
 
 img{
     width: 300px;
